@@ -12,9 +12,7 @@ Skills: ML / TS / NLP / Python / SCRAPY
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikosa01)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikosa01&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mikosa01)  
-
+  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mikosa01)  
 
 ![Profile views](https://gpvc.arturio.dev/mikosa01)  

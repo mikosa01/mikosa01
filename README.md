@@ -4,7 +4,7 @@ I'm Michael from Nigeria, and I do Machine Learning, Forecasting, Natural Langua
 
 Skills: ML / Time Series /  Python
 
-- 🔭 I’m currently working on personal projects and learning Natural Language Processing and Google Cloud Platform 
+- 🔭 I’m currently working on personal projects and also learning Natural Language Processing and Google Cloud Platform 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mikosa01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-okungbowa)  

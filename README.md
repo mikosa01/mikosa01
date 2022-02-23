@@ -2,7 +2,7 @@
 #### Data Scientist and Data Analyst 
 I'm Michael from Nigeria, and I do Machine Learning, Forecasting and intend learning Artificial Intelligence with keras and tensorflow in the future. I really do enjoy working with python. 
 
-Skills: ML / Time Series /  Python
+Skills: Machine Learning / Time Series /  Python  / AWS(RDS)
 
 - 🔭 I’m currently working on personal projects and also learning Natural Language Processing and Google Cloud Platform 
 

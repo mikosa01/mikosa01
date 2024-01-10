@@ -8,6 +8,8 @@ hello welcome to my github page... feel free to contact me if you need clarifica
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikosa01)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikosa01&show_icons=true)  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?mikosa01=DenverCoder1)](https://git.io/streak-stats)
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mikosa01)  
 

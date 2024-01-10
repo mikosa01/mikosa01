@@ -11,6 +11,7 @@ hello welcome to my github page... feel free to contact me if you need clarifica
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mikosa01&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?mikosa01=your-github-username&label=PROFILE+VIEWS)
+![GitHub Views](https://komarev.com/ghpvc/?mikosa01=<username>)
+
 
 ![Profile views](https://gpvc.arturio.dev/mikosa01)  

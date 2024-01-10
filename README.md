@@ -10,8 +10,3 @@ hello welcome to my github page... feel free to contact me if you need clarifica
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikosa01&show_icons=true)  
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mikosa01&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub Views](https://komarev.com/ghpvc/?mikosa01=<username>)
-
-
-![Profile views](https://gpvc.arturio.dev/mikosa01)  

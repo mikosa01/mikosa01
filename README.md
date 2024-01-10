@@ -9,7 +9,7 @@ hello welcome to my github page... feel free to contact me if you need clarifica
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikosa01&show_icons=true)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?mikosa01=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=mikosa01&theme=radical&hide_border=true)](https://git.io/streak-stats)
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mikosa01)  
 
